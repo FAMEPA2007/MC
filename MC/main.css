@@ -1,0 +1,52 @@
+.fond{
+    background-color: black;
+}
+.main-session{
+   position: relative;
+   right: -990px;
+}
+.sessionstart{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 20px;
+}
+.T1{
+text-decoration: none;
+color: green;
+padding: 0px 20px;
+}
+.otherop{
+    width: 1500px;
+    background-color: gray;
+position: fixed;
+}
+.options{
+    display: inline-block;
+}
+.T2{
+    color: white;
+    text-decoration: none;
+    display: inline-block;
+}
+.L1{
+    text-decoration: none;
+    
+}
+.F1{
+    background-color: darkgreen;
+    
+}
+.info{
+    z-index: 2;
+}
+.fondo{
+    height: 500px;
+    width: 700px;
+    z-index: 1;
+}
+.F2{
+    z-index: 2;
+    background-color: darkgreen;
+}
+
